@@ -14,3 +14,21 @@ body{
   float: left;
   margin-right: 30px;
 }
+
+
+
+.eggrice_picture:after{
+   content: "";
+   clear:both;
+   disaplay: block;
+}
+
+.explamation{
+   float: left;
+}
+
+dt{
+   clear: left;
+   float: left;
+   font-weight: bold;
+}
